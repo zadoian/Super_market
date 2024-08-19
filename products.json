@@ -1,0 +1,104 @@
+{
+  "supermarket_products": [
+    {
+      "category": "Fruits & Vegetables",
+      "products": [
+        { "id": 1, "name": "Apple", "price": 0.5, "unit": "each", "image": "images/products/apple.jpg" },
+        { "id": 2, "name": "Banana", "price": 0.3, "unit": "each", "image": "images/products/banana.jpg" },
+        { "id": 3, "name": "Carrot", "price": 0.4, "unit": "kg", "image": "images/products/carrot.jpg" },
+        { "id": 4, "name": "Broccoli", "price": 1.2, "unit": "kg", "image": "images/products/broccoli.jpg" },
+        { "id": 5, "name": "Tomato", "price": 0.8, "unit": "kg", "image": "images/products/tomato.jpg" }
+      ]
+    },
+    {
+      "category": "Dairy",
+      "products": [
+        { "id": 6, "name": "Milk", "price": 1.0, "unit": "liter", "image": "images/products/milk.jpg" },
+        { "id": 7, "name": "Cheddar Cheese", "price": 2.5, "unit": "200g", "image": "images/products/cheddar_cheese.jpg" },
+        { "id": 8, "name": "Butter", "price": 1.8, "unit": "250g", "image": "images/products/butter.jpg" },
+        { "id": 9, "name": "Yogurt", "price": 0.9, "unit": "each", "image": "images/products/yogurt.jpg" },
+        { "id": 10, "name": "Cream Cheese", "price": 2.0, "unit": "150g", "image": "images/products/cream_cheese.jpg" }
+      ]
+    },
+    {
+      "category": "Bakery",
+      "products": [
+        { "id": 11, "name": "White Bread", "price": 1.5, "unit": "loaf", "image": "images/products/white_bread.jpg" },
+        { "id": 12, "name": "Whole Grain Bread", "price": 2.0, "unit": "loaf", "image": "images/products/whole_grain_bread.jpg" },
+        { "id": 13, "name": "Croissant", "price": 1.2, "unit": "each", "image": "images/products/croissant.jpg" },
+        { "id": 14, "name": "Bagel", "price": 0.8, "unit": "each", "image": "images/products/bagel.jpg" },
+        { "id": 15, "name": "Muffin", "price": 1.0, "unit": "each", "image": "images/products/muffin.jpg" }
+      ]
+    },
+    {
+      "category": "Meat & Poultry",
+      "products": [
+        { "id": 16, "name": "Chicken Breast", "price": 5.0, "unit": "kg", "image": "images/products/chicken_breast.jpg" },
+        { "id": 17, "name": "Ground Beef", "price": 8.0, "unit": "kg", "image": "images/products/ground_beef.jpg" },
+        { "id": 18, "name": "Pork Chops", "price": 7.0, "unit": "kg", "image": "images/products/pork_chops.jpg" },
+        { "id": 19, "name": "Bacon", "price": 4.5, "unit": "200g", "image": "images/products/bacon.jpg" },
+        { "id": 20, "name": "Sausage", "price": 6.0, "unit": "kg", "image": "images/products/sausage.jpg" }
+      ]
+    },
+    {
+      "category": "Seafood",
+      "products": [
+        { "id": 21, "name": "Salmon Fillet", "price": 12.0, "unit": "kg", "image": "images/products/salmon_fillet.jpg" },
+        { "id": 22, "name": "Shrimp", "price": 15.0, "unit": "kg", "image": "images/products/shrimp.jpg" },
+        { "id": 23, "name": "Tuna Steak", "price": 14.0, "unit": "kg", "image": "images/products/tuna_steak.jpg" },
+        { "id": 24, "name": "Cod Fillet", "price": 10.0, "unit": "kg", "image": "images/products/cod_fillet.jpg" },
+        { "id": 25, "name": "Crab Legs", "price": 20.0, "unit": "kg", "image": "images/products/crab_legs.jpg" }
+      ]
+    },
+    {
+      "category": "Pantry",
+      "products": [
+        { "id": 26, "name": "Olive Oil", "price": 6.0, "unit": "500ml", "image": "images/products/olive_oil.jpg" },
+        { "id": 27, "name": "Pasta", "price": 1.2, "unit": "500g", "image": "images/products/pasta.jpg" },
+        { "id": 28, "name": "Rice", "price": 2.0, "unit": "1kg", "image": "images/products/rice.jpg" },
+        { "id": 29, "name": "Canned Tomatoes", "price": 0.8, "unit": "400g", "image": "images/products/canned_tomatoes.jpg" },
+        { "id": 30, "name": "Peanut Butter", "price": 3.0, "unit": "500g", "image": "images/products/peanut_butter.jpg" }
+      ]
+    },
+    {
+      "category": "Beverages",
+      "products": [
+        { "id": 31, "name": "Orange Juice", "price": 2.5, "unit": "1 liter", "image": "images/products/orange_juice.jpg" },
+        { "id": 32, "name": "Coca-Cola", "price": 1.5, "unit": "2 liter", "image": "images/products/coca_cola.jpg" },
+        { "id": 33, "name": "Coffee", "price": 4.0, "unit": "250g", "image": "images/products/coffee.jpg" },
+        { "id": 34, "name": "Green Tea", "price": 3.5, "unit": "100g", "image": "images/products/green_tea.jpg" },
+        { "id": 35, "name": "Mineral Water", "price": 1.0, "unit": "1.5 liter", "image": "images/products/mineral_water.jpg" }
+      ]
+    },
+    {
+      "category": "Snacks",
+      "products": [
+        { "id": 36, "name": "Potato Chips", "price": 1.5, "unit": "200g", "image": "images/products/potato_chips.jpg" },
+        { "id": 37, "name": "Chocolate Bar", "price": 1.2, "unit": "each", "image": "images/products/chocolate_bar.jpg" },
+        { "id": 38, "name": "Popcorn", "price": 1.0, "unit": "100g", "image": "images/products/popcorn.jpg" },
+        { "id": 39, "name": "Cookies", "price": 2.0, "unit": "250g", "image": "images/products/cookies.jpg" },
+        { "id": 40, "name": "Mixed Nuts", "price": 3.0, "unit": "200g", "image": "images/products/mixed_nuts.jpg" }
+      ]
+    },
+    {
+      "category": "Frozen Foods",
+      "products": [
+        { "id": 41, "name": "Frozen Pizza", "price": 4.0, "unit": "each", "image": "images/products/frozen_pizza.jpg" },
+        { "id": 42, "name": "Ice Cream", "price": 3.5, "unit": "500ml", "image": "images/products/ice_cream.jpg" },
+        { "id": 43, "name": "Frozen Vegetables", "price": 2.5, "unit": "1kg", "image": "images/products/frozen_vegetables.jpg" },
+        { "id": 44, "name": "Frozen Fish Fillet", "price": 7.0, "unit": "500g", "image": "images/products/frozen_fish_fillet.jpg" },
+        { "id": 45, "name": "Frozen French Fries", "price": 2.0, "unit": "1kg", "image": "images/products/frozen_french_fries.jpg" }
+      ]
+    },
+    {
+      "category": "Household",
+      "products": [
+        { "id": 46, "name": "Dish Soap", "price": 1.5, "unit": "500ml", "image": "images/products/dish_soap.jpg" },
+        { "id": 47, "name": "Laundry Detergent", "price": 5.0, "unit": "1kg", "image": "images/products/laundry_detergent.jpg" },
+        { "id": 48, "name": "Paper Towels", "price": 2.5, "unit": "6 rolls", "image": "images/products/paper_towels.jpg" },
+        { "id": 49, "name": "Toilet Paper", "price": 3.0, "unit": "12 rolls", "image": "images/products/toilet_paper.jpg" },
+        { "id": 50, "name": "Trash Bags", "price": 2.0, "unit": "30 count", "image": "images/products/trash_bags.jpg" }
+      ]
+    }
+  ]
+}
